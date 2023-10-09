@@ -1,0 +1,14 @@
+{
+  "name": "doctor-backend",
+  "version": "1.0.0",
+  "description": "jsonserver for doctor app",
+  "main": "index.js",
+  "scripts": {
+   "start":"node index.js"
+  },
+  "author": "Nafeesath Farhana",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
